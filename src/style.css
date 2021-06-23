@@ -1,0 +1,27 @@
+li {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    list-style-type: square;
+  }
+  
+
+  h1 {
+    background-color: #282c34;
+    color: darkblue;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    font-size: larger;
+  }
+
+  div {
+    background-color: #282c34;
+    color: yellow;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    font-size: medium;
+  }
